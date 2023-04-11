@@ -5,4 +5,5 @@
 - Go to drive -> Shared with me -> Add Shortcut of the repository "IR_Repo" to your drive
 
 ## Preprocessing of the dataset:
-grd
+- Open the file 'Preprocessing.ipynb', and click on "Open in Colab" on the top of the file to open it in google colab
+- Just connect to a runtime and 
