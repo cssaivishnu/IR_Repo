@@ -10,6 +10,8 @@ The classifier model can also be downloaded from the link instead of training th
 ## Evaluation of the model
 - First download the model from the above link into your local storage
 - Click on: https://colab.research.google.com/github/cssaivishnu/IR_Repo/blob/main/Evaluation.ipynb
-- Upload the model to the session storage **in the working repository** of the colab file opened in the previous step
-- Connect to gpu (if available) runtime and select 'run all' from the Runtime option in the menu
+- Connect to gpu (if available) runtime
+- Run the **first code block only** which contains command for mounting the working repository named 'IR_Repo' to the colab 
+- Upload the model to the session storage **in the working repository** of the colab file
+- Now, run all the other codeblock in the order one by one
 - At the end, "Results.xlsx" file will be found in the working directory which contains the evaluated results and metrics
