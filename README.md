@@ -17,7 +17,7 @@ The classifier model can also be downloaded from the link instead of training th
 
 ## The working of Demo
 - Upload the model 'classifier.h5' to your drive similar to the evaluation step
-- Click on: https://colab.research.google.com/github/cssaivishnu/IR_Repo/blob/main/Evaluation.ipynb
+- Click on: https://colab.research.google.com/github/cssaivishnu/IR_Repo/blob/main/Demo.ipynb
 - Connect to gpu (if available) runtime
 - Run all the code blocks one by one
 - At every code block we can see the demo of working of the model for each product category respectively
