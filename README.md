@@ -1,17 +1,11 @@
 # E-commerce Clothing Product Categorization with limited data
 
-## Basic Setup:
-- Click on: https://drive.google.com/drive/folders/17BPP2E329ul-dwuMpUwBIuljZZIA47hU?usp=share_link
-- Go to drive -> Shared with me -> Add Shortcut of the repository "IR_Repo" to your drive
-
-## Preprocessing of the dataset:
-- Open the file 'Preprocessing.ipynb', and click on "Open in Colab" on the top of the file to open it in google colab
-- Connect to local runtime and select 'run all' from the Runtime option in the menu
-- Now, we are done with the creation of dataset and preprocessing it into features and labels
-
-## Training the model
-- Open the file 'classifier.ipynb', and click on "Open in Colab" on the top of the file to open it in google colab
+## Steps to run the code from scratch and train the model
+- Click on: https://colab.research.google.com/github/cssaivishnu/IR_Repo/blob/scratch/Classifier.ipynb
 - Connect to gpu (if available) runtime and select 'run all' from the Runtime option in the menu
-- The model is being trained and saved in the repository as "classifier.h5" file
 
-## 
+## Evaluation of the model
+- Download the classifier model from the link: https://drive.google.com/file/d/13Q3wMJg-LVq4uKUuxSekCDZGWo5hCtIF/view?usp=share_link
+- Click on: https://colab.research.google.com/github/cssaivishnu/IR_Repo/blob/main/Evaluation.ipynb
+- Upload the model to the session storage of the colab file opened in the previous step
+- Connect to any runtime and select 'run all' from the Runtime option in the menu
